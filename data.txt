@@ -1,3 +1,5 @@
 ceci est un fichier créer par curt
 
 rajout de stagiaire avec correction
+
+pas besoin de date
